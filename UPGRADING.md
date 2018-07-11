@@ -47,7 +47,7 @@ import solid from '@fortawesome/fontawesome-free-solid'
 import faTwitter from '@fortawesome/fontawesome-free-brands/faTwitter'
 import FontAwesomeIcon from '@fortawesome/react-fontawesome'
 
-import fontaweome.library.add(solid, faTwitter)
+fontawesome.library.add(solid, faTwitter)
 ```
 
 New way:
